@@ -8,6 +8,7 @@
 body {
 	font-size: 22px;
 	width: 100% !important;
+	padding: 6px;
 	font-family: Garamond, serif;
 }
 .container{
