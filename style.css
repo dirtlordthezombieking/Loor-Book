@@ -24,7 +24,7 @@ body {
 	background-image: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/temp_map.png");
 	background-repeat: no-repeat;
 	width: 100% !important;
-	padding: 24px;
 	padding-top: 75%;
 	background-size: cover;
+	padding: 150px;
 }
