@@ -12,6 +12,7 @@ body {
 .container{
 	display: grid;
 	width: 100% !important;
+	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png");
 }
 .banner {
 	width: 100% !important;
@@ -20,6 +21,6 @@ body {
 	background-image: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/temp_map.png");
 	background-repeat: no-repeat;
 	width: 100% !important;
-	height: 75vw !important;
+	padding-top: 75%;
 	background-size: cover;
 }
