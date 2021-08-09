@@ -15,8 +15,8 @@ body {
 	width: 100% !important;
 	min-height 100% !important;
 	border-style: solid;
-	border-width: 24px;
-	padding: 24px;
+	border-width: 6px;
+	padding: 12px;
 	border-image: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png") 6 fill repeat;
 }
 .banner {
