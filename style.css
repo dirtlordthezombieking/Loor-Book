@@ -15,6 +15,7 @@ body {
 	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png");
 	border-image-slice: 6 fill;
 	border-image-repeat: repeat;
+	border: 6px;
 }
 .banner {
 	width: 100% !important;
