@@ -14,7 +14,11 @@ body {
 	width: 100% !important;
 	border: 10px solid transparent;
 	padding: 15px;
-	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png") fill round;
+	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png");
+	border-image-slice: 6 6 6 6;
+	border-image-width: 6px 6px 6px 6px;
+	border-image-outset: 0px 0px 0px 0px;
+	border-image-repeat: repeat repeat;
 }
 .banner {
 	width: 100% !important;
