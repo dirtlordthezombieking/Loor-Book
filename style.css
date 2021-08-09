@@ -12,10 +12,9 @@ body {
 .container{
 	display: grid;
 	width: 100% !important;
-	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png");
-	border-image-slice: 6 fill;
-	border-image-repeat: repeat;
-	border: 6px;
+	border: 10px solid transparent;
+	padding: 15px;
+	border-image-source: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png") fill 6 round;
 }
 .banner {
 	width: 100% !important;
