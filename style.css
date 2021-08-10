@@ -10,12 +10,14 @@ body {
 	font-size: 22px;
 	width: 100% !important;
 	color: #383b3e;
+	background-color: #000000;
 	font-family: Garamond, serif;
 }
 .container{
 	display: grid;
 	width: 100% !important;
 	border-style: solid;
+	min-height 100% !important;
 	border-width: 6px;
 	padding: 14px;
 	border-image: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/border.png") 6 fill repeat;
