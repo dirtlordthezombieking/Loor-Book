@@ -28,6 +28,9 @@ body {
 }
 .catagory {
 	width: 30% !important;
+	left: 50%;
+	-ms-transform: translateX(-50%);
+	transform: translateX(-50%);
 }
 .catagory_img {
 	width: 100% !important;
