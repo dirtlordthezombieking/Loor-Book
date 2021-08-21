@@ -29,6 +29,7 @@ body {
 .catagory {
 	width: 30% !important;
 	margin: auto;
+	font-size: 10vh;
 }
 .catagory_img {
 	width: 100% !important;
