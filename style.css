@@ -26,6 +26,12 @@ body {
 .banner {
 	width: 100% !important;
 }
+.catagory {
+	width: 30% !important;
+}
+.catagory_img {
+	width: 100% !important;
+}
 .world_map {
 	background-image: url("https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/temp_map.png");
 	background-repeat: no-repeat;
