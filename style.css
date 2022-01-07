@@ -5,6 +5,7 @@
 	font-size: 22px;
 	color: #383b3e;
 	font-family: Garamond, serif;
+	text-indent: 2em;
 }
 body {
 	font-size: 22px;
@@ -41,4 +42,7 @@ body {
 	width: 100% !important;
 	padding-top: 56.25%;
 	background-size: cover;
+}
+.held {
+	text-indent: 0em;
 }
