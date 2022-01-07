@@ -43,5 +43,8 @@ body {
 	background-size: cover;
 }
 .indented {
-	text-indent: 4em;
+	text-indent: 2em;
+}
+.name {
+	padding-left: 2em
 }
