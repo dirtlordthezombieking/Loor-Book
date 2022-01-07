@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="description" content="loorbook an art piece, in the form of a wiki style website, for a fantasy world." />
+		<meta charset="utf-8">
+		<title>Lore-Book ()</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="DirtlordTheZombieKing and SuperSonicCrow">
+		<link rel="stylesheet" href="style.css">
+		<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div>
+				<img class="banner" src="https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/sketch-1641141441537.png" alt="LoreBook">
+				<img class="catagory_img" src="https://raw.githubusercontent.com/dirtlordthezombieking/LoreBook/main/Images/" alt="artwork">
+			</div>
+		</div>
+	</body>
+</html>
